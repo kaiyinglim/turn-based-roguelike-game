@@ -1,0 +1,14 @@
+# IDE metadata
+.idea/
+*.iml
+.vscode/
+
+# Generated files
+target/
+out/
+*.class
+docs/javadoc/
+
+# OS metadata
+.DS_Store
+Thumbs.db
